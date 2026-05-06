@@ -1,0 +1,28 @@
+{
+  "name": "ejer_19",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000d\u0000w\u0000e\u0000c\u0000-\u0000e\u0000j\u0000e\u0000r\u00001\u00009\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osoriomrs/dwec-ejer19.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osoriomrs/dwec-ejer19/issues"
+  },
+  "homepage": "https://github.com/osoriomrs/dwec-ejer19#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "type": "module",
+    "express": "^5.2.1",
+    "express-session": "^1.19.0",
+    "morgan": "^1.10.1",
+    "mysql2": "^3.22.3"
+  }
+}
